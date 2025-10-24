@@ -19,6 +19,13 @@ By the end, I should (hopefully) be employable. 😂
 
 ---
 
+## Here's what we'll cover
+*(Click to jump to any week)*
+
+- [Week 1: SQL & Foundations](#week-1_sql-foundations)
+- [Week 2: Excel & Tableau](#week-2_excel-and-tableau)
+- [Week 3: Power BI & Python Basics](#week-3_power-bi-python-basics)
+- [Week 4: Python Advanced, Cloud, and Portfolio](#week-4_python-advanced-cloud-and-portfolio)
 
 ## 🗂 Folder Structure
 
