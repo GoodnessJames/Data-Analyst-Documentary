@@ -9,6 +9,7 @@ A chaotic documentary by a human who's trying to make sense of Excel, SQL, and l
 
 ## 🧭 Why This Exists
 Because I was tired of “perfect tutorials.”
+
 So I decided to document the messy, confusing, funny, and honest version of what learning data analytics actually looks like — the version where your SQL query breaks, your Excel sheet crashes, and you celebrate finally understanding joins.
 
 If you’ve ever felt lost starting out — this is for you.  
