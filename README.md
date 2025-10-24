@@ -33,6 +33,7 @@ By the end, I should (hopefully) be employable. 😂
 📁 data-analyst-documentary/
 │
 ├── 📄 README.md
+├── 📄 quizzes.md
 │
 ├── 📁 my-progress-tracker/
 │   ├── progress-log.md
