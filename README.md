@@ -2,8 +2,9 @@
 
 A chaotic documentary by a human who's trying to make sense of Excel, SQL, and life anddd still get paid (heavily) while at it. 😁
 
+
 # 🎬 Okay, let's be professional
-**A complete guide to becoming job-ready for a Data Analyst role in 4 weeks.**  
+A complete guide to becoming job-ready for a Data Analyst role in 4 weeks.
 
 ---
 
@@ -18,8 +19,10 @@ By the end, I should (hopefully) be employable. 😂
 
 ---
 
+
 ## 🗂 Folder Structure
 
+```
 📁 data-analyst-documentary/
 │
 ├── 📄 README.md
@@ -62,7 +65,7 @@ By the end, I should (hopefully) be employable. 😂
 ├── day-20.md
 ├── recap.md
 └── final-reflection.md
-
+```
 
 ---
 
