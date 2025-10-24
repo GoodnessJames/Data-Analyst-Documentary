@@ -6,6 +6,8 @@
 
 **Total Learning Time:** 1 hr
 
+**Today's Mood:** I'm wondering if taking this course is a good decision
+
 ---
 
 #### 🧠 What I Learned
@@ -37,5 +39,6 @@ Describe any practice task you did — e.g.
 #### 🔗 Resources
 - [Alex the Analyst Video](URL)
 - [Docs / Cheat Sheet](URL)
+
 
 
