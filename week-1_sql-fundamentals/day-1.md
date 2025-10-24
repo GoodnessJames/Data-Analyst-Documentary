@@ -1,6 +1,9 @@
 ### 🗓️ Day 1 — October 24, 2025 (4:30pm - 6pm)
+
 **Focus:** SQL
+
 **Number of Videos Watched:** 4
+
 **Total Learning Time:** 1 hr
 
 ---
@@ -34,4 +37,5 @@ Describe any practice task you did — e.g.
 #### 🔗 Resources
 - [Alex the Analyst Video](URL)
 - [Docs / Cheat Sheet](URL)
+
 
