@@ -20,5 +20,5 @@ What are KPIs and Metrics?
 
 What is Data?
 
-**Result:** Took over an hour to set up my repo for my documentation journey.
+**Result:** Took over an hour to set up my repo for my documentation journey, but I did it!
 
