@@ -105,8 +105,7 @@ By the end, I should (hopefully) be employable. 😂
 
 **Built in public. Broken in private. Learning anyway.**
 
-```
+
 *Love,
 Goodness James 💛*
-```
 
