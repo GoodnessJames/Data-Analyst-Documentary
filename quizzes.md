@@ -75,3 +75,4 @@ Installing MySQL & Creating Database
 **Day 20 (Nov 21)** — Final Review + Certificate  
 🎯 [Quiz + Summary →](https://docs.google.com/)
 
+
