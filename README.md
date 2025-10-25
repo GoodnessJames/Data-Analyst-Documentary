@@ -77,13 +77,7 @@ By the end, I should (hopefully) be employable. 😂
 
 ---
 
-## 🧩 My Progress Tracker
-| Week | Focus | Completion | Notes |
-|------|--------|-------------|-------|
-| 1 | SQL Fundamentals | ☐ In Progress |  |
-| 2 | Excel + Tableau | ☐ Not Started |  |
-| 3 | Power BI + Python Basics | ☐ Not Started |  |
-| 4 | Python Advanced + Portfolio | ☐ Not Started |  |
+## I'm not sure what to call this section 🥲
 
 🧠 **Goal:** Finish by **Nov 21, 2025**  
 🎯 **Learning Pace:** Mon–Fri, ~1 hr/day  
