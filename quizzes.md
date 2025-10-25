@@ -6,7 +6,7 @@
 ---
 
 ## 📅 Week 1 — Data & SQL Fundamentals
-Data Fundamentals 
+Data Fundamentals <br>
 🎯 [Quiz + Summary →](https://docs.google.com/)  
 
 Installing MySQL & Creating Database  
@@ -74,5 +74,6 @@ Installing MySQL & Creating Database
 
 **Day 20 (Nov 21)** — Final Review + Certificate  
 🎯 [Quiz + Summary →](https://docs.google.com/)
+
 
 
