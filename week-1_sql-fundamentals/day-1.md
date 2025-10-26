@@ -1,6 +1,6 @@
 ### 🗓️ Day 1 — October 24, 2025 (4:30pm - 6pm)
 
-**Focus:** SQL
+**Focus:** Data Fundamentals & MySQL Installation
 
 **Number of Videos Watched:** 4
 
@@ -31,6 +31,7 @@ I took a 5-question tricky quiz. Scored 4//5.
 > He makes this journey very light and doable. 😊
 > I am full of surprises. Can you beleive I did extra hours. From the look of things we might finish before the estimated time.
 > Let's get this over with. 💅
+
 
 
 
