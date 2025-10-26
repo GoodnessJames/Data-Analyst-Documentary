@@ -2,7 +2,7 @@
 
 **Date:** Oct 24, 2025  
 
-**Focus:** Learn Data fundamentals & Install MySQL
+**Focus:** Learn Data Fundamentals & Install MySQL
 
 **Duration:** 35 minutes and 50 seconds
 
@@ -48,4 +48,5 @@ What is Data?
 
 **Result:** Took over an hour to set up my repo for my documentation journey, but I did it!  
 I ended up only finishing the data fundamentals; I wasn't able to download and set up MySQL. 👀
+
 
