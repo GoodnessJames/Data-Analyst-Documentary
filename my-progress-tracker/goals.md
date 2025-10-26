@@ -22,7 +22,7 @@ What is Data?
 I ended up only finishing the data fundamentals; I wasn't able to download and set up MySQL. 👀
 
 ```
-** Extra Day**!!! 🥳🥳🥳 (Sun - Oct 26, 2025 2:00 AM)
+Extra Day!!! 🥳🥳🥳 (Sun - Oct 26, 2025 2:00 AM)
 I worked extra during the weekend to catch up with the missed goal. I have MySQL installed and set up! 💃
 ```
 
@@ -48,3 +48,4 @@ What is Data?
 
 **Result:** Took over an hour to set up my repo for my documentation journey, but I did it!  
 I ended up only finishing the data fundamentals; I wasn't able to download and set up MySQL. 👀
+
