@@ -27,10 +27,11 @@
 I took a 5-question tricky quiz. Scored 4//5.
 
 #### 💭 Reflection
-> I am so inspired by Alex. Look what he has achieved for himself for someone from a non-technical/STEM background
+> I am so inspired by Alex. Look what he has achieved for himself for someone from a non-technical/STEM background  
 > He makes this journey very light and doable. 😊
 > I am full of surprises. Can you beleive I did extra hours. From the look of things we might finish before the estimated time.
 > Let's get this over with. 💅
+
 
 
 
