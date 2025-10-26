@@ -11,34 +11,31 @@
 ---
 
 #### 🧠 What I Learned
-- (3–5 bullet points or mini-notes on new concepts)
-- (Keep it light: “Finally understood what a JOIN really does — it’s basically matchmaking for tables.”)
+- Dirty data can be very deceptive sometimes. It looks clean but dirty under the hood.
+- I finally learned the data cleaning cycle.
 
 #### 🤯 My Struggle Moment
-- Describe what confused you or took longest to grasp.  
-- Example: “Tried to join two tables, ended up breaking the entire database. Felt powerful and stupid at once.”
+- Describe what confused you or took longest to grasp.
+- I didn't learn about the concept of logical inconsistency for exampple when the delivery date has earlier dates than purchase.
 
 #### ⚡ Aha! Moment
-- Capture that single “lightbulb” insight of the day.  
-- Example: “CTEs are like short-term memory — super helpful when you don’t want to clutter your main query.”
+- Capture that single “lightbulb” insight of the day.
+- Dirty data can look clean sometimes.
 
 #### 🧰 Tools & Commands I Used
-- `SELECT`, `GROUP BY`, `ORDER BY`
-- `pandas.merge()`
-- Excel: `XLOOKUP()`
+- None for the data fundamentals videos I watched.
 
 #### 🎨 Mini Project / Practice Task
-*(Optional, but powerful)*  
 Describe any practice task you did — e.g.  
-> “Built a mini dashboard of store sales using Excel Pivot Tables.”
+> I took a 5-question tricky quiz. Scored 4//5.
 
 #### 💭 Reflection
 - 1–2 sentences that feel human and raw.  
-> “Today was one of those days where you think you know Excel — until Excel reminds you who’s boss.”
+> I am so inspired by Alex. Look what he has achieved for himself for someone from a non-technical/STEM background
+> He makes this journey very light and doable. 😊
+> I am full of surprises. Can you beleive I did extra hours. From the look of things we might finish before the estimated time.
+> Let's get this over with. 💅
 
-#### 🔗 Resources
-- [Alex the Analyst Video](URL)
-- [Docs / Cheat Sheet](URL)
 
 
 
