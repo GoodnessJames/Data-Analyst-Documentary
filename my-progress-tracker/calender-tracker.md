@@ -12,8 +12,8 @@ Schedule: **Mon–Fri only** (1–1.5 hrs/day, ~22 hrs total)
 
 **Fri, Oct 24**
 
-* How to Become a Data Analyst – 13:59
-* Installing MySQL & Creating Database – 12:04
+* How to Become a Data Analyst – 13:59 ✅
+* Installing MySQL & Creating Database – 12:04 ✅
   ⏱ ~26 min
 
 **Mon, Oct 27**
