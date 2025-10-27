@@ -21,7 +21,7 @@ WHERE Clause in MySQL
 - 
 
 #### 🧰 Tools & Commands I Used
-- 
+- SELECT & WHERE
 
 #### 🎨 Mini Project / Practice Task
 ```
@@ -33,7 +33,6 @@ then rank all departments from the **highest** to **lowest** average salary.
 ---
 
 Step-by-Step Instructions:
-
 1. Use the table named `employees`.
 2. Select the `occupation` column.
 3. Use the `AVG()` function on the `salary` column and give it an alias called `avg_salary`.
@@ -58,7 +57,8 @@ ORDER BY avg_salary DESC;
 ```
 
 #### 💭 Reflection
-> 
+> Weirdly, SELECT can do a lot more than picking data columns/fields.
+
 
 
 
