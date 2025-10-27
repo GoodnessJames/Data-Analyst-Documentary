@@ -1,27 +1,67 @@
 ### 🗓️ Day 2 — October 27, 2025 (9:30 am - 10:30 am)
 
-**Focus:** SELECT Statements in MySQL  
-WHERE Clause in MySQL
+**Focus:** SQL Basics — Commands, Filtering, Grouping & Sorting  
 
-**Number of Videos Watched:** 4
+**Topics:**  
+SELECT Statements in MySQL  
+WHERE Clause in MySQL  
+GROUP BY + ORDER BY  
 
-**Total Learning Time:** 1 hr
+**Number of Videos Watched:** 3
+
+**Total Learning Time:** 2 hr
 
 **Today's Mood:** Charged up. I feel like I can conquer the world!
 
 ---
 
 #### 🧠 What I Learned
-- 
+* **MySQL file recognition:** MySQL only reads files ending with `.sql`. Anything else and it just stares blankly.  
+* **Date entry in tables:** Dates must be in quotes — otherwise, SQL tries to do math with them (like turning `2024-10-25` into subtraction).  
+* **Refreshing schemas:** You’ve got to *run* or *execute* your database before refreshing. No execution = no tables showing up.  
+* **Lightning bolt icons:**  
+
+  * Bolt **without “I”** → runs *all* commands in the query window.  
+  * Bolt **with “I”** → runs *only* the line your cursor is on.  
+* **SELECT statement calculations:** The `SELECT` command can do calculations too — and it follows **PEMDAS** (parentheses, exponents, multiplication, division, addition, subtraction).  
+* **Database specification:** Always specify the database before the table. Keeps things clean and avoids confusion.  
+* **Formatting SELECT fields:** Place each field in your `SELECT` statement on a new line. It’s easier on the eyes — and on your future self.  
+* **WHERE clause:** Acts as a *filter* — it only returns records that match the condition you set.  
+* **LIKE operator:** Works with two wildcards:  
+
+  * `%` → matches *anything* (any number of characters).  
+  * `_` → matches *a specific character count* (one character per underscore).  
+* **GROUP BY:** Think of it as zooming in on a part of your table. If you `GROUP BY gender`, you’re basically saying, “Hey SQL, organize everything by gender so I can calculate things like average age, salary, or count per gender.”  
+* **Understanding GROUP BY (Canva-style):** If you ever get stuck, think of Canva — when you select and *group* multiple elements, they become one piece.
+  Same thing in SQL: you’re grouping columns so you can focus on that combined piece.  
+* **Multiple fields in GROUP BY:** You can group by more than one field (e.g., `occupation` and `salary`). Just make sure whatever you’re selecting matches   what you’re grouping.  
+* **ORDER BY:** This one’s all about arrangement — it sorts your results based on the fields you choose.  
+* **Default sorting:** SQL sorts in **ascending order (ASC)** by default, unless you tell it to sort **descending (DESC)**.  
+* **Using numbers in ORDER BY:** You *can* use column numbers to order results, but it’s not best practice. If someone updates the table, your “#2” column  
+  might not be what you think it is anymore.  
+* **Order of ORDER BY:** The *sequence* of columns you order by matters. If the first column has no duplicates to sort,  
+  the next one won’t even get a chance — making your whole `ORDER BY` kinda pointless.  
+
+
+**Discoveries:**
+
+* **Case sensitivity in SQL:** MySQL isn’t case-sensitive by default. So `Male`, `male`, and `MALE` are all treated the same.  
+* **Forcing case sensitivity:** Use `WHERE BINARY gender = 'male';` if you want SQL to treat upper and lowercase differently.  
+* **Negation check:** `WHERE NOT gender = 'male'` works the same as `WHERE gender != 'male'`.  
+
+---
+
 
 #### 🤯 My Struggle Moment
-- 
+- *Let me think about it...*
 
 #### ⚡ Aha! Moment
-- 
+- Writinng queries from scratch. Felt like a badass.
 
 #### 🧰 Tools & Commands I Used
-- SELECT & WHERE
+- SELECT statement
+- WHERE clause
+- GROUP BY & ORDER BY 
 
 #### 🎨 Mini Project / Practice Task
 ```
@@ -161,6 +201,7 @@ WHERE birth_date LIKE '199%';
 #### 💭 Reflection
 > Weirdly, SELECT can do a lot more than picking data columns/fields.
 > The LIKE operator usually comes after the field/column name. Syntax: WHERE birth_date LIKE '198%'
+
 
 
 
