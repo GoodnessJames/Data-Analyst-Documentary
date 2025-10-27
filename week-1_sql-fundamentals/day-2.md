@@ -26,7 +26,9 @@ WHERE Clause in MySQL
 #### 🎨 Mini Project / Practice Task
 ```
 **Project Task:**
-You’ve been asked to help management identify which departments are paying the most on average. Use the company’s `employees` table to calculate the **average salary** for each department, then rank all departments from the **highest** to **lowest** average salary.
+You’ve been asked to help management identify which departments are paying the most on average. 
+Use the company’s `employees` table to calculate the **average salary** for each department, 
+then rank all departments from the **highest** to **lowest** average salary.
 
 ---
 
@@ -57,6 +59,7 @@ ORDER BY avg_salary DESC;
 
 #### 💭 Reflection
 > 
+
 
 
 
