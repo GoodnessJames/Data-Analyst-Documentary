@@ -1,7 +1,7 @@
 ### 🗓️ Day 2 — October 27, 2025 (9:30 am - 10:30 am)
 
-**Focus:** SELECT Statements in MySQL – 11:00
-WHERE Clause in MySQL – 12:27 ⏱ ~24 min
+**Focus:** SELECT Statements in MySQ  
+WHERE Clause in MySQL
 
 **Number of Videos Watched:** 4
 
@@ -28,6 +28,7 @@ WHERE Clause in MySQL – 12:27 ⏱ ~24 min
 
 #### 💭 Reflection
 > 
+
 
 
 
