@@ -30,23 +30,16 @@ I worked extra during the weekend to catch up with the missed goal. I have MySQL
 
 **Date:** Oct 27, 2025  
 
-**Focus:** Learn Data fundamentals & Install MySQL
+**Focus:** SELECT Statements in MySQL
+WHERE Clause in MySQL
 
-**Duration:** 35 minutes and 50 seconds
+**Duration:** 
 
 **Topics covered:**
+SELECT Statements in MySQL – 11:00  
+WHERE Clause in MySQL – 12:27 ⏱ ~24 min
 
-What is Data Cleaning? 
+**Result:** 
 
-What are File Types?
-
-What are Data Types?
-
-What are KPIs and Metrics? 
-
-What is Data?
-
-**Result:** Took over an hour to set up my repo for my documentation journey, but I did it!  
-I ended up only finishing the data fundamentals; I wasn't able to download and set up MySQL. 👀
 
 
