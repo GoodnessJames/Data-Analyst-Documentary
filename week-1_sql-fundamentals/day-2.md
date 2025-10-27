@@ -120,12 +120,44 @@ using `AND` and `OR` to narrow or widen search results, and testing how `NOT` ch
 
 My Thought Process:
  -- Pseudo Query --
+# Filter the low-income earner
+# Filter employees born after a certain year
+# Use logical operators to refine values
+# Use the LIKE operator to filter employee first names (filter firstnames containing certain letters, starting with specific letters, 
+# or having a set number of characters)
+# Filter out employees born in a certain year, say the 1990s
+
+ -- SQL Query --
+SELECT *
+FROM employee_salary
+WHERE salary >= 50000;
+
+SELECT *
+FROM employee_salary
+WHERE salary > 50000 OR salary < 100000;
+
+SELECT *
+FROM employee_demographics
+WHERE first_name LIKE '%er%';
+
+SELECT *
+FROM employee_demographics
+WHERE first_name LIKE 'An_';
+
+SELECT *
+FROM employee_demographics
+WHERE first_name LIKE 'Je___';
+
+SELECT *
+FROM employee_demographics
+WHERE birth_date LIKE '199%';
+
 
 ```
 
 #### 💭 Reflection
 > Weirdly, SELECT can do a lot more than picking data columns/fields.
-
+> The LIKE operator usually comes after the field/column name. Syntax: WHERE birth_date LIKE '198%'
 
 
 
