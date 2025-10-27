@@ -67,9 +67,10 @@ Finally, find out how many **unique first names** and gender combinations exist 
 
 Step-by-Step Instructions:
 1. Retrieve all columns from the `employee_demographics` table to get a full view of the data.
-2. Select specific fields such as `first_name`, `last_name`, `birth_date`, and `age`, and perform a calculation on the `age` column 
-where you add, multiply, and add values in sequence — to see how SQL handles arithmetic operations.
-3. Extract only the **unique combinations** of `first_name` and `gender` using the `DISTINCT` keyword to identify duplicates or repeated entries.
+2. Select specific fields such as `first_name`, `last_name`, `birth_date`, and `age`, and perform a calculation
+on the `age` column where you add, multiply, and add values in sequence — to see how SQL handles arithmetic operations.
+3. Extract only the **unique combinations** of `first_name` and `gender` using the `DISTINCT` keyword to identify duplicates
+or repeated entries.
 
 My Thought Process:
  -- Pseudo Query --
@@ -96,6 +97,7 @@ FROM parks_and_recreation.employee_demographics;
 
 #### 💭 Reflection
 > Weirdly, SELECT can do a lot more than picking data columns/fields.
+
 
 
 
