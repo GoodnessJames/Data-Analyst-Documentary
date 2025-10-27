@@ -97,14 +97,20 @@ FROM parks_and_recreation.employee_demographics;
 --
 
 Project Task on WHERE Clause #1:
-You’re analyzing employee data to spot salary trends, birth year patterns, and naming structures across departments. Your goal is to use **filtering and pattern-matching techniques** to answer specific questions about the workforce. Start by identifying employees who earn less than or equal to ₦50,000, then move on to finding younger employees born after a given date. Next, test logical operators like **AND**, **OR**, and **NOT** to combine conditions and filter data more precisely. Finally, use the **LIKE** operator to explore name patterns (e.g., names containing “er,” names starting with “A,” or those with a specific number of letters) and identify employees born in a particular year.
+You’re analyzing employee data to spot salary trends, birth year patterns, and naming structures across departments. 
+Your goal is to use **filtering and pattern-matching techniques** to answer specific questions about the workforce. 
+Start by identifying employees who earn less than or equal to ₦50,000, then move on to finding younger employees born after a given date. 
+Next, test logical operators like **AND**, **OR**, and **NOT** to combine conditions and filter data more precisely. 
+Finally, use the **LIKE** operator to explore name patterns (e.g., names containing “er,” names starting with “A,” or 
+those with a specific number of letters) and identify employees born in a particular year.
 
 ---
 
 Step-by-Step Instructions:
 1. Filter the `employee_salary` table to show only employees earning **₦50,000 or less**.
 2. From the `employee_demographics` table, retrieve all employees **born after January 1, 1985**.
-3. Combine filters using **logical operators** to explore how multiple conditions work together — for example, using `AND` and `OR` to narrow or widen search results, and testing how `NOT` changes what gets included or excluded.
+3. Combine filters using **logical operators** to explore how multiple conditions work together — for example, 
+using `AND` and `OR` to narrow or widen search results, and testing how `NOT` changes what gets included or excluded.
 4. Experiment with case sensitivity by checking how SQL interprets values like `'male'` vs `'Male'`.
 5. Use the **LIKE** operator to search for name patterns:
    * Names that **contain** certain letters (e.g., “er”)
@@ -119,6 +125,7 @@ My Thought Process:
 
 #### 💭 Reflection
 > Weirdly, SELECT can do a lot more than picking data columns/fields.
+
 
 
 
