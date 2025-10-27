@@ -25,7 +25,7 @@ WHERE Clause in MySQL
 
 #### 🎨 Mini Project / Practice Task
 ```
-Project Task on SELECT:
+Project Task on SELECT #1:
 You’ve been asked to help management identify which occupation are paying the most on average. 
 Use the company’s `employees` table to calculate the **average salary** for each department, 
 then rank all departments from the **highest** to **lowest** average salary.
@@ -39,7 +39,7 @@ Step-by-Step Instructions:
 4. Group the results by `department` to calculate averages for each occupation.
 5. Order the results by `avg_salary` in **descending** order so the highest averages appear first.
 
-My thought process:
+My Thought Process:
  -- Pseudo Query --
 # occupation is a field/data column in a table
 # calculate the average salary AVG(salary) and alias it AS avg_salary
@@ -54,10 +54,46 @@ FROM employees
 GROUP BY occupation
 ORDER BY avg_salary DESC;
 
+
+---
+
+Project Task on SELECT #2:
+You’re exploring the `parks_and_recreation` database to understand your employee data better.
+First, review all the available fields in the `employee_demographics` table. Then, experiment with performing calculations on the `age` field to project an adjusted figure (for example, future or weighted age). Finally, find out how many **unique first names** and gender combinations exist in the organization.
+
+---
+
+Step-by-Step Instructions:
+1. Retrieve all columns from the `employee_demographics` table to get a full view of the data.
+2. Select specific fields such as `first_name`, `last_name`, `birth_date`, and `age`, and perform a calculation on the `age` column where you add, multiply, and add values in sequence — to see how SQL handles arithmetic operations.
+3. Extract only the **unique combinations** of `first_name` and `gender` using the `DISTINCT` keyword to identify duplicates or repeated entries.
+
+My Thought Process:
+ -- Pseudo Query --
+# SELECT all fields 
+# Specify the table and from which db
+# SELECT specific fields like first_name, last_name, birth_date, and age
+# Perform calculation on age to see how SQL handles arithmetic operations.
+# Start a new query and get DISTINCT firstname and gender FROM the table
+
+-- SQL Query --
+SELECT *
+FROM parks_and_recreation.employee_demographics;
+
+SELECT first_name,
+last_name,
+age,
+(age + 10) * 10 + 10 AS future_age
+FROM parks_and_recreation.employee_demographics;
+
+SELECT DISTINCT gender
+FROM parks_and_recreation.employee_demographics;
+
 ```
 
 #### 💭 Reflection
 > Weirdly, SELECT can do a lot more than picking data columns/fields.
+
 
 
 
