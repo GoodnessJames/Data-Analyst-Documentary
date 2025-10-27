@@ -19,12 +19,12 @@ Schedule: **Mon–Fri only** (1–1.5 hrs/day, ~22 hrs total)
 **Mon, Oct 27**
 
 * SELECT Statements in MySQL – 11:00 ✅
-* WHERE Clause in MySQL – 12:27
-  ⏱ ~24 min
+* WHERE Clause in MySQL – 12:27 ✅
+* GROUP BY & ORDER BY – 10:46 ✅  
+  ⏱ ~35 min
 
 **Tue, Oct 28**
-
-* GROUP BY & ORDER BY – 10:46
+ 
 * HAVING vs WHERE – 3:46
 * LIMITS + ALIASING – 3:57
   ⏱ ~19 min
