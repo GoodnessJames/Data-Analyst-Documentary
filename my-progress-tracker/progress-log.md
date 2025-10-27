@@ -1,6 +1,6 @@
 # 📊 Progress Tracker
-- Days Completed: 1/20
-- Hours Logged: 1/22
+- Days Completed: 2/20
+- Hours Logged: 2/22
 - SQL Queries Written: 0
 
 
