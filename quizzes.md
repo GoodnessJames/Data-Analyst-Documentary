@@ -6,19 +6,20 @@
 ---
 
 ## 📅 Week 1 — Data & SQL Fundamentals
-Data Fundamentals  
+**Day 1 (Oct 24)** — Data Fundamentals  
 🎯 [Quiz + Summary →](https://docs.google.com/document/d/14QOQarcYIebVwjtKJNzGvdhyxmy23PajySv7BxIci5w/edit?tab=t.0)  
 
-Installing MySQL & Creating Database  
+**Day 2 (Oct 26)** — Installing MySQL & Creating Database  
 🎯 [Quiz + Summary →](https://docs.google.com/document/d/14QOQarcYIebVwjtKJNzGvdhyxmy23PajySv7BxIci5w/edit?tab=t.3r0j5gm0odnp)  
 
-*SELECT Statements & WHERE Clauses  
+**Day 3 (Oct 27)** — SELECT Statements & WHERE Clauses  
+🎯 [Quiz + SELECT Summary →](https://docs.google.com/document/d/14QOQarcYIebVwjtKJNzGvdhyxmy23PajySv7BxIci5w/edit?tab=t.nrj2n39m8o4l)  
+🎯 [Quiz + WHERE Summary →](https://docs.google.com/document/d/14QOQarcYIebVwjtKJNzGvdhyxmy23PajySv7BxIci5w/edit?tab=t.nz6dcvuwzr3)  
+
+**Day 4 (Oct 28)** — GROUP BY, HAVING, and LIMIT  
 🎯 [Quiz + Summary →](https://docs.google.com/)  
 
-**Day 4 (Oct 29)** — GROUP BY, HAVING, and LIMIT  
-🎯 [Quiz + Summary →](https://docs.google.com/)  
-
-**Day 5 (Oct 30)** — JOINS, UNIONS, CASE Statements  
+**Day 5 (Oct 29)** — JOINS, UNIONS, CASE Statements  
 🎯 [Quiz + Summary →](https://docs.google.com/)  
 
 ---
@@ -74,6 +75,7 @@ Installing MySQL & Creating Database
 
 **Day 20 (Nov 21)** — Final Review + Certificate  
 🎯 [Quiz + Summary →](https://docs.google.com/)
+
 
 
 
