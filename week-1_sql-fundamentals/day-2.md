@@ -9,7 +9,7 @@ GROUP BY + ORDER BY
 
 **Number of Videos Watched:** 3
 
-**Total Learning Time:** 2 hr
+**Total Learning Time:** 4 hrs
 
 **Today's Mood:** Charged up. I feel like I can conquer the world!
 
@@ -201,6 +201,7 @@ WHERE birth_date LIKE '199%';
 #### 💭 Reflection
 > Weirdly, SELECT can do a lot more than picking data columns/fields.
 > The LIKE operator usually comes after the field/column name. Syntax: WHERE birth_date LIKE '198%'
+
 
 
 
