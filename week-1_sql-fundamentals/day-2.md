@@ -1,4 +1,4 @@
-### 🗓️ Day 2 — October 27, 2025 (9:30 am - 10:30 am)
+### 🗓️ Day 2 — October 27, 2025 (9:30 am - 10:30 am, 2:30 pm - 9:30 pm *I took breaks in between, lol*)
 
 **Focus:** SQL Basics — Commands, Filtering, Grouping & Sorting  
 
@@ -201,6 +201,7 @@ WHERE birth_date LIKE '199%';
 #### 💭 Reflection
 > Weirdly, SELECT can do a lot more than picking data columns/fields.
 > The LIKE operator usually comes after the field/column name. Syntax: WHERE birth_date LIKE '198%'
+
 
 
 
