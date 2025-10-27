@@ -1,6 +1,6 @@
 ### 🗓️ Day 2 — October 27, 2025 (9:30 am - 10:30 am)
 
-**Focus:** SELECT Statements in MySQ  
+**Focus:** SELECT Statements in MySQL  
 WHERE Clause in MySQL
 
 **Number of Videos Watched:** 4
@@ -42,14 +42,14 @@ My thought process:
  -- Pseudo Query --
 # occupation is a field/data column
 # calculation to do in SELECT: AVG(salary) aliased AS avg_salary
-# table to use - employee_salary
+# table to use - employees
 # GROUP the calculation to get the average for each occupation
 # ORDER the avg_salary in DESC order to get the salary from highest to lowest
 
 SQL Query
 SELECT occupation,
 AVG(salary) AS avg_salary
-FROM parks_and_recreation.employee_salary
+FROM employees
 GROUP BY occupation
 ORDER BY avg_salary DESC;
 
@@ -57,6 +57,7 @@ ORDER BY avg_salary DESC;
 
 #### 💭 Reflection
 > 
+
 
 
 
