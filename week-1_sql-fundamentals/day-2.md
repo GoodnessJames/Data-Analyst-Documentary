@@ -25,7 +25,8 @@ WHERE Clause in MySQL
 
 #### 🎨 Mini Project / Practice Task
 ```
-Project Task on SELECT #1:
+-- Project Task on SELECT #1:
+
 You’ve been asked to help management identify which occupation are paying the most on average. 
 Use the company’s `employees` table to calculate the **average salary** for each department, 
 then rank all departments from the **highest** to **lowest** average salary.
@@ -57,7 +58,8 @@ ORDER BY avg_salary DESC;
 
 ---
 
-Project Task on SELECT #2:
+-- Project Task on SELECT #2:
+
 You’re exploring the `parks_and_recreation` database to understand your employee data better.
 First, review all the available fields in the `employee_demographics` table. 
 Then, experiment with performing calculations on the `age` field to project an adjusted figure (for example, future or weighted age). 
@@ -96,7 +98,8 @@ FROM parks_and_recreation.employee_demographics;
 
 --
 
-Project Task on WHERE Clause #1:
+-- Project Task on WHERE Clause #1:
+
 You’re analyzing employee data to spot salary trends, birth year patterns, and naming structures across departments. 
 Your goal is to use **filtering and pattern-matching techniques** to answer specific questions about the workforce. 
 Start by identifying employees who earn less than or equal to ₦50,000, then move on to finding younger employees born after a given date. 
@@ -158,6 +161,7 @@ WHERE birth_date LIKE '199%';
 #### 💭 Reflection
 > Weirdly, SELECT can do a lot more than picking data columns/fields.
 > The LIKE operator usually comes after the field/column name. Syntax: WHERE birth_date LIKE '198%'
+
 
 
 
