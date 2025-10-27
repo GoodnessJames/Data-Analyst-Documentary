@@ -59,13 +59,16 @@ ORDER BY avg_salary DESC;
 
 Project Task on SELECT #2:
 You’re exploring the `parks_and_recreation` database to understand your employee data better.
-First, review all the available fields in the `employee_demographics` table. Then, experiment with performing calculations on the `age` field to project an adjusted figure (for example, future or weighted age). Finally, find out how many **unique first names** and gender combinations exist in the organization.
+First, review all the available fields in the `employee_demographics` table. Then, experiment with performing calculations on the `age` field 
+to project an adjusted figure (for example, future or weighted age). 
+Finally, find out how many **unique first names** and gender combinations exist in the organization.
 
 ---
 
 Step-by-Step Instructions:
 1. Retrieve all columns from the `employee_demographics` table to get a full view of the data.
-2. Select specific fields such as `first_name`, `last_name`, `birth_date`, and `age`, and perform a calculation on the `age` column where you add, multiply, and add values in sequence — to see how SQL handles arithmetic operations.
+2. Select specific fields such as `first_name`, `last_name`, `birth_date`, and `age`, and perform a calculation on the `age` column 
+where you add, multiply, and add values in sequence — to see how SQL handles arithmetic operations.
 3. Extract only the **unique combinations** of `first_name` and `gender` using the `DISTINCT` keyword to identify duplicates or repeated entries.
 
 My Thought Process:
@@ -93,6 +96,7 @@ FROM parks_and_recreation.employee_demographics;
 
 #### 💭 Reflection
 > Weirdly, SELECT can do a lot more than picking data columns/fields.
+
 
 
 
