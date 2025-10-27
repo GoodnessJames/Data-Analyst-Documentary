@@ -26,7 +26,7 @@ WHERE Clause in MySQL
 #### 🎨 Mini Project / Practice Task
 ```
 Project Task on SELECT:
-You’ve been asked to help management identify which departments are paying the most on average. 
+You’ve been asked to help management identify which occupation are paying the most on average. 
 Use the company’s `employees` table to calculate the **average salary** for each department, 
 then rank all departments from the **highest** to **lowest** average salary.
 
@@ -35,14 +35,14 @@ then rank all departments from the **highest** to **lowest** average salary.
 Step-by-Step Instructions:
 
 1. Use the table named `employees`.
-2. Select the `department` column.
+2. Select the `occupation` column.
 3. Use the `AVG()` function on the `salary` column and give it an alias called `avg_salary`.
-4. Group the results by `department` to calculate averages for each department.
+4. Group the results by `department` to calculate averages for each occupation.
 5. Order the results by `avg_salary` in **descending** order so the highest averages appear first.
 
 My thought process:
  -- Pseudo Query --
-# occupation is a field/data column
+# occupation is a field/data column in a table
 # calculate the average salary AVG(salary) and alias it AS avg_salary
 # Use the employees table
 # GROUP the calculation by occupation to get the average for each occupation
@@ -59,6 +59,7 @@ ORDER BY avg_salary DESC;
 
 #### 💭 Reflection
 > 
+
 
 
 
