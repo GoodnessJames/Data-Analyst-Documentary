@@ -25,14 +25,14 @@ WHERE Clause in MySQL
 
 #### 🎨 Mini Project / Practice Task
 ```
-**Project Task:**
+Project Task on SELECT:
 You’ve been asked to help management identify which departments are paying the most on average. 
 Use the company’s `employees` table to calculate the **average salary** for each department, 
 then rank all departments from the **highest** to **lowest** average salary.
 
 ---
 
-**Step-by-Step Instructions:**
+Step-by-Step Instructions:
 
 1. Use the table named `employees`.
 2. Select the `department` column.
@@ -43,12 +43,12 @@ then rank all departments from the **highest** to **lowest** average salary.
 My thought process:
  -- Pseudo Query --
 # occupation is a field/data column
-# calculation to do in SELECT: AVG(salary) aliased AS avg_salary
-# table to use - employees
-# GROUP the calculation to get the average for each occupation
+# calculate the average salary AVG(salary) and alias it AS avg_salary
+# Use the employees table
+# GROUP the calculation by occupation to get the average for each occupation
 # ORDER the avg_salary in DESC order to get the salary from highest to lowest
 
-SQL Query
+-- SQL Query --
 SELECT occupation,
 AVG(salary) AS avg_salary
 FROM employees
@@ -59,6 +59,7 @@ ORDER BY avg_salary DESC;
 
 #### 💭 Reflection
 > 
+
 
 
 
