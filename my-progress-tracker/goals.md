@@ -26,20 +26,83 @@ Extra Day!!! 🥳🥳🥳 (Sun - Oct 26, 2025 2:00 AM)
 I worked extra during the weekend to catch up with the missed goal. I have MySQL installed and set up! 💃
 ```
 
+-- 
+
 # 🎯 Daily Goal — Day 2
 
 **Date:** Oct 27, 2025  
 
-**Focus:** SELECT Statements in MySQL
-WHERE Clause in MySQL
+**Focus:** SELECT Statements in MySQL  
+           WHERE Clause in MySQL  
+           GROUP BY & ORDER BY
 
-**Duration:** 
+**Duration:** 3 hrs
 
 **Topics covered:**
 SELECT Statements in MySQL – 11:00  
 WHERE Clause in MySQL – 12:27 ⏱ ~24 min
 
-**Result:** 
+**Result:** I learned how to use SELECT, WHERE clause, and GROUP BY & ORDER BY
+Wrote practice queries, which helped me understand the topics in depth.
+
+--
+
+# 🎯 Daily Goal — Day 3
+
+**Date:** Oct 28, 2025  
+
+**Focus:** SELECT Statements in MySQL  
+           WHERE Clause in MySQL   
+           GROUP BY & ORDER BY  
+
+**Duration:** 3 hrs  
+
+**Topics covered:**  
+HAVING vs WHERE – 3:46  
+LIMITS + ALIASING – 3:57 
+JOINS in MySQL – 17:11  
+UNIONS in MySQL – 7:22  
+
+**Result:** I wrote practice queries and did project tasks on the topics above.
+
+--
+
+# 🎯 Daily Goal — Day 4
+
+**Date:** Oct 29, 2025  
+
+**Focus:** 
+
+**Duration:** 3 hrs
+
+**Topics covered:**  
+
+
+**Result:** I learned how to use SELECT, WHERE clause, and GROUP BY & ORDER BY
+Wrote practice queries, which helped me understand the topics in depth.
+
+--
+
+# 🎯 Daily Goal — Day 5
+
+**Date:** Oct 30, 2025  
+
+**Focus:** SELECT Statements in MySQL  
+           WHERE Clause in MySQL  
+           GROUP BY & ORDER BY
+
+**Duration:** 3 hrs
+
+**Topics covered:**
+SELECT Statements in MySQL – 11:00  
+WHERE Clause in MySQL – 12:27 ⏱ ~24 min
+
+**Result:** I learned how to use SELECT, WHERE clause, and GROUP BY & ORDER BY
+Wrote practice queries, which helped me understand the topics in depth.
+
+
+
+
 
 
 
