@@ -1,6 +1,6 @@
 # 📊 Progress Tracker
-- Days Completed: 2/20
-- Hours Logged: 5/22
+- Days Completed: 3/20
+- Tutorial Videos Watched: 7/84
 - SQL Queries Written: 17 💃
 
 
