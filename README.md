@@ -29,7 +29,7 @@ By the end, I should (hopefully) be employable. 😂
 
 > 💡 Want to dive into the full Data Analyst Bootcamp files?  
 > Check out the repo where I document everything — from tutorials to practice sessions!  
-> 👉 [Go to Data Analyst Bootcamp Repo](#https://github.com/goodnessakoma/Data_Analyst_Bootcamp)
+> 👉 [Go to Data Analyst Bootcamp Repo](https://github.com/goodnessakoma/Data_Analyst_Bootcamp)
 
 ## 🗂 Folder Structure
 
