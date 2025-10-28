@@ -25,8 +25,8 @@ Schedule: **Mon–Fri only** (1–1.5 hrs/day, ~22 hrs total)
 
 **Tue, Oct 28**
  
-* HAVING vs WHERE – 3:46
-* LIMITS + ALIASING – 3:57
+* HAVING vs WHERE – 3:46 ✅
+* LIMITS + ALIASING – 3:57 ✅
   ⏱ ~19 min
 
 **Wed, Oct 29**
