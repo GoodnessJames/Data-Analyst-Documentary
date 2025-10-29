@@ -73,6 +73,7 @@
 
 ```
 -- Project Task on HAVING vs WHERE #1:
+
 You’re working on refining employee and salary reports for management. The goal is to understand how to filter data effectively  
 — both **before** and **after** aggregation.  
 Start by analyzing the average age of employees by gender, and notice why filtering with `WHERE`  
@@ -111,6 +112,7 @@ HAVING AVG(salary) > 75000
 
 #### 💭 Reflection
 > There is really nothing I can't understand. All it takes is a little patience, time, and of course, stepping back a little to unwind.
+
 
 
 
