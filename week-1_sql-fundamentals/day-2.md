@@ -2,7 +2,7 @@
 
 **Focus:** SQL Basics — Commands, Filtering, Grouping & Sorting  
 
-**Topics:**  
+**Topics Covered:**  
 SELECT Statements in MySQL  
 WHERE Clause in MySQL  
 GROUP BY + ORDER BY  
@@ -202,6 +202,7 @@ WHERE birth_date LIKE '199%';
 > Weirdly, SELECT can do a lot more than picking data columns/fields.
 > The LIKE operator usually comes after the field/column name. Syntax: WHERE birth_date LIKE '198%'
 > I'm happy about my commitment so far. Let's keep up the energy! 🥳
+
 
 
 
