@@ -27,27 +27,27 @@
   * `HAVING` filters data **after grouping** — it works on aggregate results like `AVG(salary)` or `COUNT(id)`.
 
 * **SQL’s internal logic order:**
-  SQL doesn’t read queries the way you write them — it has its own internal workflow:
-  1️⃣ **FROM** → Gather the data (tables, joins, etc.)
-  2️⃣ **WHERE** → Filter rows
-  3️⃣ **GROUP BY** → Form groups
-  4️⃣ **HAVING** → Filter groups
-  5️⃣ **SELECT** → Pick what to display
-  6️⃣ **ORDER BY** → Arrange the output
+  SQL doesn’t read queries the way you write them — it has its own internal workflow:  
+  1️⃣ **FROM** → Gather the data (tables, joins, etc.)  
+  2️⃣ **WHERE** → Filter rows  
+  3️⃣ **GROUP BY** → Form groups  
+  4️⃣ **HAVING** → Filter groups  
+  5️⃣ **SELECT** → Pick what to display  
+  6️⃣ **ORDER BY** → Arrange the output  
 
 * **Why WHERE can’t come after GROUP BY:**
-  By the time SQL reaches `GROUP BY`, the rows have already been bundled into groups.
-  So, if you try to add a `WHERE` after grouping, SQL gets confused — it’s like asking it to “filter rows” that no longer exist.
-  That’s like trying to remove ingredients after the soup’s already been cooked 🍲😅
+  By the time SQL reaches `GROUP BY`, the rows have already been bundled into groups.  
+  So, if you try to add a `WHERE` after grouping, SQL gets confused — it’s like asking it to “filter rows” that no longer exist.  
+  That’s like trying to remove ingredients after the soup’s already been cooked 🍲😅  
 
-* **HAVING vs WHERE analogy:**
-  Think of SQL like a factory line:
-  1️⃣ Workers pick raw materials (**FROM**)
-  2️⃣ They remove unwanted ones (**WHERE**)
-  3️⃣ They bundle them into boxes (**GROUP BY**)
-  4️⃣ They reject boxes that don’t meet standards (**HAVING**)
-  Trying to use `WHERE` after grouping is like saying, “Remove that bad item after you’ve already sealed the box.”
-  You can’t — the only options are to filter *before* boxing (WHERE) or *after* boxing (HAVING).
+* **HAVING vs WHERE analogy:**  
+  Think of SQL like a factory line:  
+  1️⃣ Workers pick raw materials (**FROM**)  
+  2️⃣ They remove unwanted ones (**WHERE**)  
+  3️⃣ They bundle them into boxes (**GROUP BY**)  
+  4️⃣ They reject boxes that don’t meet standards (**HAVING**)  
+  Trying to use `WHERE` after grouping is like saying, “Remove that bad item after you’ve already sealed the box.”  
+  You can’t — the only options are to filter *before* boxing (WHERE) or *after* boxing (HAVING).  
 
 **💡 Discoveries:**
 
@@ -111,6 +111,7 @@ HAVING AVG(salary) > 75000
 
 #### 💭 Reflection
 > There is really nothing I can't understand. All it takes is a little patience, time, and of course, stepping back a little to unwind.
+
 
 
 
