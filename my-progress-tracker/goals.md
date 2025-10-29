@@ -51,17 +51,12 @@ Wrote practice queries, which helped me understand the topics in depth.
 
 **Date:** Oct 28, 2025  
 
-**Focus:** SELECT Statements in MySQL  
-           WHERE Clause in MySQL   
-           GROUP BY & ORDER BY  
-
 **Duration:** 3 hrs  
 
 **Topics covered:**  
 HAVING vs WHERE – 3:46  
 LIMITS + ALIASING – 3:57 
-JOINS in MySQL – 17:11  
-UNIONS in MySQL – 7:22  
+
 
 **Result:** I wrote practice queries and did project tasks on the topics above.
 
@@ -99,6 +94,7 @@ WHERE Clause in MySQL – 12:27 ⏱ ~24 min
 
 **Result:** I learned how to use SELECT, WHERE clause, and GROUP BY & ORDER BY
 Wrote practice queries, which helped me understand the topics in depth.
+
 
 
 
