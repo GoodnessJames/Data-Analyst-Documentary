@@ -1,8 +1,8 @@
-### 🗓️ Day 3 — October 28, 2025 (time)
+### 🗓️ Day 3 — October 28, 2025 (1:30 pm - 5:00 pm)
 
 **Focus:** ORDER BY, WHERE, and HAVING in SQL
 
-**Number of Videos Watched:** 4
+**Number of Videos Watched:** 2
 
 **Total Learning Time:** 3 hr
 
@@ -111,6 +111,7 @@ HAVING AVG(salary) > 75000
 
 #### 💭 Reflection
 > tbd
+
 
 
 
