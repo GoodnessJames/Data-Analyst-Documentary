@@ -43,7 +43,7 @@ GROUP BY + ORDER BY
   the next one won’t even get a chance — making your whole `ORDER BY` kinda pointless.  
 
 
-**Discoveries:**
+💡 **Discoveries:**
 
 * **Case sensitivity in SQL:** MySQL isn’t case-sensitive by default. So `Male`, `male`, and `MALE` are all treated the same.  
 * **Forcing case sensitivity:** Use `WHERE BINARY gender = 'male';` if you want SQL to treat upper and lowercase differently.  
@@ -202,6 +202,7 @@ WHERE birth_date LIKE '199%';
 > Weirdly, SELECT can do a lot more than picking data columns/fields.
 > The LIKE operator usually comes after the field/column name. Syntax: WHERE birth_date LIKE '198%'
 > I'm happy about my commitment so far. Let's keep up the energy! 🥳
+
 
 
 
