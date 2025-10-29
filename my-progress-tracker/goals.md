@@ -54,8 +54,9 @@ Wrote practice queries, which helped me understand the topics in depth.
 **Duration:** 3 hrs  
 
 **Topics covered:**  
+GROUP BY & ORDER BY – 10:46  
 HAVING vs WHERE – 3:46  
-LIMITS + ALIASING – 3:57 
+
 
 
 **Result:** I wrote practice queries and did project tasks on the topics above.
@@ -69,9 +70,9 @@ LIMITS + ALIASING – 3:57
 **Duration:** 3 hrs
 
 **Topics covered:**  
-LIMITS + ALIASING
-JOINS in MySQL  
-UNIONS in MySQL  
+LIMITS + ALIASING – 3:57  
+JOINS in MySQL – 17:11  
+UNIONS in MySQL – 7:22  
 
 **Result:** Limits & aliasing? Piece of cake! I finally learned joins and unions. I still find LEFT & RIGHT join a little confusing. 
 But with more practice, I know I'll be badass.  
@@ -191,6 +192,7 @@ But with more practice, I know I'll be badass.
 
 
 **Result:** I learned how to use 
+
 
 
 
