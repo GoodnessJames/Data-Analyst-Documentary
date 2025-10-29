@@ -66,15 +66,14 @@ LIMITS + ALIASING – 3:57
 
 **Date:** Oct 29, 2025  
 
-**Focus:** 
-
 **Duration:** 3 hrs
 
 **Topics covered:**  
+JOINS in MySQL  
+UNIONS in MySQL  
 
-
-**Result:** I learned how to use SELECT, WHERE clause, and GROUP BY & ORDER BY
-Wrote practice queries, which helped me understand the topics in depth.
+**Result:** I finally learned joins and the types of joins. I still find LEFT & RIGHT join a little confusing. 
+But with more practice, I know I'll be badass.  
 
 --
 
@@ -95,8 +94,109 @@ WHERE Clause in MySQL – 12:27 ⏱ ~24 min
 **Result:** I learned how to use SELECT, WHERE clause, and GROUP BY & ORDER BY
 Wrote practice queries, which helped me understand the topics in depth.
 
+--
+
+# 🎯 Daily Goal — Day 6
+
+**Date:** Oct 31, 2025  
+
+**Duration:** 3 hrs
+
+**Topics covered:**
 
 
+**Result:** I learned how to use 
+
+--
+
+# 🎯 Daily Goal — Day 7
+
+**Date:** Oct 31, 2025  
+
+**Duration:** 3 hrs
+
+**Topics covered:**
+
+
+**Result:** I learned how to use 
+
+--
+
+# 🎯 Daily Goal — Day 6
+
+**Date:** Oct 31, 2025  
+
+**Duration:** 3 hrs
+
+**Topics covered:**
+
+
+**Result:** I learned how to use 
+
+--
+
+# 🎯 Daily Goal — Day 6
+
+**Date:** Oct 31, 2025  
+
+**Duration:** 3 hrs
+
+**Topics covered:**
+
+
+**Result:** I learned how to use 
+
+--
+
+# 🎯 Daily Goal — Day 6
+
+**Date:** Oct 31, 2025  
+
+**Duration:** 3 hrs
+
+**Topics covered:**
+
+
+**Result:** I learned how to use 
+
+--
+
+# 🎯 Daily Goal — Day 6
+
+**Date:** Oct 31, 2025  
+
+**Duration:** 3 hrs
+
+**Topics covered:**
+
+
+**Result:** I learned how to use 
+
+--
+
+# 🎯 Daily Goal — Day 6
+
+**Date:** Oct 31, 2025  
+
+**Duration:** 3 hrs
+
+**Topics covered:**
+
+
+**Result:** I learned how to use 
+
+--
+
+# 🎯 Daily Goal — Day 6
+
+**Date:** Oct 31, 2025  
+
+**Duration:** 3 hrs
+
+**Topics covered:**
+
+
+**Result:** I learned how to use 
 
 
 
