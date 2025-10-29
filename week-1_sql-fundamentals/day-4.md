@@ -1,9 +1,9 @@
 ### 🗓️ Day 4 — October 29, 2025 (12:30 pm - 8:30 pm)
 
 **Focus:**  
-LIMITS + ALIASING – 3:57  
-JOINS in MySQL – 17:11  
-UNIONS in MySQL – 7:22  
+LIMITS + ALIASING  
+JOINS in MySQL  
+UNIONS in MySQL   
 
 **Number of Videos Watched:** 3
 
@@ -68,6 +68,7 @@ HAVING AVG(age) > 40	# Aliasing comes in handy here. avg_age can used instead of
 
 #### 💭 Reflection
 > tbd
+
 
 
 
