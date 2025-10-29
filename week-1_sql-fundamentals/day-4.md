@@ -24,7 +24,8 @@
 
 #### 🎨 Mini Project / Practice Task
 
--- **Project Task on LIMIT & ALIASING:**
+```
+-- Project Task on LIMIT & ALIASING:
 
 You’re working on cleaning and summarizing HR data to make your reports more efficient and readable.  
 Begin by exploring how the **LIMIT** clause helps you control how many records are displayed at a time.  
@@ -60,10 +61,11 @@ HAVING AVG(age) > 40	# Aliasing comes in handy here. avg_age can used instead of
 						# Better syntax: HAVING avg_age > 40
 ;
 
-
+```
 
 #### 💭 Reflection
 > tbd
+
 
 
 
