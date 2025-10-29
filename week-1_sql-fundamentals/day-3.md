@@ -4,7 +4,7 @@
 
 **Number of Videos Watched:** 2
 
-**Total Learning Time:** 3 hr
+**Total Learning Time:** 3 hrs
 
 **Today's Mood:** Tired but had to show up 🙂
 
@@ -111,6 +111,7 @@ HAVING AVG(salary) > 75000
 
 #### 💭 Reflection
 > tbd
+
 
 
 
