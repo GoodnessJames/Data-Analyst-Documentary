@@ -64,10 +64,40 @@ HAVING AVG(age) > 40	# Aliasing comes in handy here. avg_age can used instead of
 						# Better syntax: HAVING avg_age > 40
 ;
 
+--
+
+-- Project Task on JOINS #1:
+
+You’ve been assigned to combine and analyze employee data from multiple tables in the HR database to understand how records  
+connect across departments and salary structures. Begin by reviewing the contents of both `employee_demographics` and `employee_salary`  
+to see what fields are available. Then, practice different **types of joins** to merge data meaningfully: 
+
+Start with an **INNER JOIN** to return only employees who appear in both tables, based on a shared column (`employee_id`).
+Then move to **OUTER JOINS** — using **LEFT JOIN** to see all employees from the demographics table (even if they don’t have salary data)
+and **RIGHT JOIN** to capture the reverse scenario.
+
+Next, experiment with a **SELF JOIN** on the same table to find relationships between rows — for instance, pairing employees whose IDs differ by 1.
+Finally, practice joining **multiple tables** together to combine demographic, salary, and departmental details in a single, unified dataset.  
+
+---
+
+Step-by-Step Instructions:
+
+1. Explore both `employee_demographics` and `employee_salary` tables separately to understand their structure and shared columns.
+2. Perform an **INNER JOIN** to display only the records that exist in both tables — matching them using the `employee_id` column.
+3. Alias both tables (e.g., `dem` for demographics and `sal` for salary) to make your query more readable.
+4. Experiment with **LEFT JOIN** to return all rows from the left table (`employee_demographics`) and any matching records from the right table (`employee_salary`).
+5. Use **RIGHT JOIN** to do the opposite — returning all rows from the salary table and matching data from demographics where possible.
+6. Perform a **SELF JOIN** on the `employee_salary` table to compare records within the same table — for example, matching employees whose `employee_id` differs by 1.
+7. Select specific columns from both aliases (like first and last names) to better understand how self joins relate data.
+8. Finally, practice **joining multiple tables** — combining demographics, salary, and department data — to produce a complete view of each employee’s profile.
+
+
 ```
 
 #### 💭 Reflection
 > tbd
+
 
 
 
