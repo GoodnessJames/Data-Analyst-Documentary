@@ -31,8 +31,8 @@ Schedule: **Mon–Fri only** (1–1.5 hrs/day, ~22 hrs total)
 
 **Wed, Oct 29**
 
-* JOINS in MySQL – 17:11
-* UNIONS in MySQL – 7:22  
+* JOINS in MySQL – 17:11 ✅  
+* UNIONS in MySQL – 7:22 ✅  
   ⏱ ~25 min
 
 **Thu, Oct 30**
