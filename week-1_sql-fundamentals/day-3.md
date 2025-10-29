@@ -110,7 +110,8 @@ HAVING AVG(salary) > 75000
 
 
 #### 💭 Reflection
-> tbd
+> There is really nothing I can't understand. All it takes is a little patience, time, and of course, stepping back a little to unwind.
+
 
 
 
