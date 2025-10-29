@@ -81,18 +81,11 @@ But with more practice, I know I'll be badass.
 
 **Date:** Oct 30, 2025  
 
-**Focus:** SELECT Statements in MySQL  
-           WHERE Clause in MySQL  
-           GROUP BY & ORDER BY
-
 **Duration:** 3 hrs
 
 **Topics covered:**
-SELECT Statements in MySQL – 11:00  
-WHERE Clause in MySQL – 12:27 ⏱ ~24 min
 
-**Result:** I learned how to use SELECT, WHERE clause, and GROUP BY & ORDER BY
-Wrote practice queries, which helped me understand the topics in depth.
+**Result:** I learned how to 
 
 --
 
@@ -197,6 +190,7 @@ Wrote practice queries, which helped me understand the topics in depth.
 
 
 **Result:** I learned how to use 
+
 
 
 
