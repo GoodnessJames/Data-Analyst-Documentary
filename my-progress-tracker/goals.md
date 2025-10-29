@@ -69,10 +69,11 @@ LIMITS + ALIASING – 3:57
 **Duration:** 3 hrs
 
 **Topics covered:**  
+LIMITS + ALIASING
 JOINS in MySQL  
 UNIONS in MySQL  
 
-**Result:** I finally learned joins and the types of joins. I still find LEFT & RIGHT join a little confusing. 
+**Result:** Limits & aliasing? Piece of cake! I finally learned joins and unions. I still find LEFT & RIGHT join a little confusing. 
 But with more practice, I know I'll be badass.  
 
 --
@@ -190,6 +191,7 @@ But with more practice, I know I'll be badass.
 
 
 **Result:** I learned how to use 
+
 
 
 
