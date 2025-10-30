@@ -65,7 +65,8 @@ UNIONS in MySQL
 - JOINS are crazyyyyyyyyyyyyyyyyyyyyyyyy!
 
 #### ⚡ Aha! Moment
-- Finally understanding that UNIONS are used for row-stacking (performed vertically) while JOINS used for column-joining (performed horizon.) made my day!
+- Finally understanding that UNIONS are used for row-stacking (performed vertically) while JOINS used for column-joining (performed horizon.)
+- made my day!
 
 #### 🧰 Tools & Commands I Used
 - LIMIT  
@@ -86,7 +87,7 @@ Next, focus on **aliasing**, which allows you to rename columns or calculated fi
 Practice renaming your aggregated column for **average age** by gender and see how using an alias simplifies your `HAVING` clause,  
 especially when filtering based on aggregate results.
 
-**Step-by-Step Instructions:**
+Step-by-Step Instructions:
 1. Use the **LIMIT** clause to display only a specific set of results — for example, skip a few top records and show the next few.
 2. Observe how using two numbers in `LIMIT` works — the first number represents how many rows to skip, and the second represents how many rows to return.
 3. In the `employee_demographics` table, calculate the **average age** for each gender.
@@ -125,9 +126,8 @@ Then move to **OUTER JOINS** — using **LEFT JOIN** to see all employees from t
 and **RIGHT JOIN** to capture the reverse scenario.
 
 Next, experiment with a **SELF JOIN** on the same table to find relationships between rows — for instance, pairing employees whose IDs differ by 1.
-Finally, practice joining **multiple tables** together to combine demographic, salary, and departmental details in a single, unified dataset.  
+Finally, practice joining **multiple tables** together to combine demographic, salary, and departmental details in a single, unified dataset.
 
----
 
 Step-by-Step Instructions:
 
@@ -140,11 +140,132 @@ Step-by-Step Instructions:
 7. Select specific columns from both aliases (like first and last names) to better understand how self joins relate data.
 8. Finally, practice **joining multiple tables** — combining demographics, salary, and department data — to produce a complete view of each employee’s profile.
 
+-- SQL Query --
+# INNER  JOIN
+
+SELECT *
+FROM employee_demographics AS dem
+INNER JOIN employee_salary AS sal	# By default JOIN represents an inner join but you can explicitly write out INNER JOIN
+	ON dem.employee_id = sal.employee_id	# ->> Is the ON keyword compulsory & why? Yes, if you're joining, you need to tie on soemthing :)
+;
+
+SELECT dem.employee_id, age, occupation
+FROM employee_demographics AS dem
+INNER JOIN employee_salary AS sal	
+	#ON dem.employee_id = sal.employee_id	
+;
+
+
+# OUTER JOIN (LEFT JOIN & RIGHT JOIN)
+
+SELECT dem.employee_id, age, occupation
+FROM employee_demographics AS dem # LEFT table
+LEFT JOIN employee_salary AS sal # RIGHT table 
+	ON dem.employee_id = sal.employee_id
+;
+
+SELECT *
+FROM employee_demographics AS dem # Notice that the join doesnt bother with reorganizing the table by displaying the RIGHT table first even if it's pulling data from the RIGHT table.
+RIGHT JOIN employee_salary AS sal 
+	ON dem.employee_id = sal.employee_id
+;
+
+
+# SELF JOIN #1
+SELECT *
+FROM employee_salary emp1
+JOIN employee_salary emp2
+	ON emp1.employee_id + 1 = emp2.employee_id
+;
+
+# SELF JOIN #2 - Picking specific columns
+SELECT emp1.employee_id as emp_id1,
+emp1.first_name AS first_name_santa,
+emp1.last_name AS last_name_santa,
+emp2.employee_id as emp_id2,
+emp2.first_name AS first_name_emp,
+emp2.last_name AS last_name_emp
+FROM employee_salary emp1
+JOIN employee_salary emp2
+	ON emp1.employee_id + 1 = emp2.employee_id 
+;
+
+
+# Joining multiple tables
+SELECT *
+FROM employee_demographics AS dem
+INNER JOIN employee_salary AS sal
+	ON dem.employee_id = sal.employee_id
+INNER JOIN parks_departments pd
+	ON sal.dept_id = pd.department_id
+;
+
+--
+
+-- Project Task on UNION #1:
+
+You’re building a combined employee report that merges data from multiple sources. Unlike `JOIN`,  
+which connects tables side-by-side (by columns), `UNION` stacks results **vertically**, combining rows from different tables into a single dataset.  
+
+Start by merging the records from the `employee_demographics` and `employee_salary` tables to observe how `UNION` automatically removes duplicates —  
+since it runs as `UNION DISTINCT` by default. Then, try `UNION ALL` to keep duplicates and understand the difference in output.  
+
+Next, create a categorized report that labels employees based on their characteristics — for example, identifying older male and female employees,  
+as well as those who are highly paid — and merge all these filtered results into one table using multiple `UNION` statements.  
+Finally, observe what happens if you misspell or reference a non-existent table to understand SQL’s behavior and error handling in such cases.  
+
+
+Step-by-Step Instructions:
+
+1. Combine all rows from the `employee_demographics` and `employee_salary` tables using `UNION` to see how it merges records while removing duplicates.  
+2. Repeat the combination using `UNION ALL` to view every record — including duplicates — for comparison.  
+3. Create separate filtered queries for:  
+
+   * Male employees over 40 labeled as “Old Man”  
+   * Female employees over 40 labeled as “Old Lady”  
+   * Employees earning above ₦70,000 labeled as “Highly Paid”  
+     Then, merge these three filtered datasets using multiple `UNION` clauses into one unified report.  
+4. Order the final results by first and last names for better readability.  
+5. Finally, intentionally reference a misspelled table name to observe the type of error SQL returns —  
+this helps reinforce how table validation works before query execution.  
+
+
+-- SQL Query
+
+SELECT * 
+FROM employee_demographics
+UNION # Shows distinct values only
+SELECT * 
+FROM employee_salary
+;
+
+SELECT first_name, last_name
+FROM employee_demographics
+UNION ALL # Shows all results without removing the duplicates
+SELECT first_name, last_name
+FROM employee_salary
+;
+
+SELECT first_name, last_name, 'Old Man' AS label
+FROM employee_demographics
+WHERE age > 40 AND gender = 'male'
+UNION
+SELECT first_name, last_name, 'Old Lady' AS label
+FROM employee_demographics
+WHERE age > 40 AND gender = 'female'
+UNION
+SELECT first_name, last_name, 'Highly Paid' AS label
+FROM employee_salary
+WHERE salary > 70000
+ORDER BY first_name, last_name
+;
+
 
 ```
 
 #### 💭 Reflection
 > Today was quite the day! I don't have anything else to say.
+
 
 
 
