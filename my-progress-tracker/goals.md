@@ -85,9 +85,12 @@ But with more practice, I know I'll be badass.
 
 **Duration:** 3 hrs
 
-**Topics covered:**
+**Topics covered:**  
+STRING Functions  
+CASE Statements  
+SUBQUERIES  
 
-**Result:** I learned how to 
+**Result:** I learned how to use strings, case statements, and subqueries.
 
 --
 
@@ -192,6 +195,7 @@ But with more practice, I know I'll be badass.
 
 
 **Result:** I learned how to use 
+
 
 
 
