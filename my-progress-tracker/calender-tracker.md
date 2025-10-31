@@ -37,9 +37,9 @@ Schedule: **Mon–Fri only** (1–1.5 hrs/day, ~22 hrs total)
 
 **Thu, Oct 30**
 
-* STRING Functions – 11:54
-* CASE Statements – 8:53
-* SUBQUERIES – 11:01  
+* STRING Functions – 11:54 ✅
+* CASE Statements – 8:53 ✅
+* SUBQUERIES – 11:01 ✅
   ⏱ ~32 min
 
 **Fri, Oct 31**
