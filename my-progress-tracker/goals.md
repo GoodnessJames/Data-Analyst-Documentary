@@ -87,10 +87,8 @@ But with more practice, I know I'll be badass.
 
 **Topics covered:**  
 STRING Functions  
-CASE Statements  
-SUBQUERIES  
 
-**Result:** I learned how to use strings, case statements, and subqueries.
+**Result:** I learned how to use string functions on strings and string column data. I couldn't check off case statements and subqueries.
 
 --
 
@@ -100,8 +98,9 @@ SUBQUERIES
 
 **Duration:** 3 hrs
 
-**Topics covered:**
-
+**Topics covered:**  
+CASE Statements  
+SUBQUERIES  
 
 **Result:** I learned how to use 
 
@@ -195,6 +194,7 @@ SUBQUERIES
 
 
 **Result:** I learned how to use 
+
 
 
 
