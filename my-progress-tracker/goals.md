@@ -102,13 +102,30 @@ STRING Functions
 CASE Statements  
 SUBQUERIES  
 
-**Result:** I learned how to use 
+**Result:** I learned how to use case statements, the importance of stacking order in case conditions, the syntax of aliasing a case. Learned queries inside a query (subquery). : )
 
 --
 
 # 🎯 Daily Goal — Day 7
 
-**Date:** Oct 31, 2025  
+**Date:** November 01, 2025  
+
+**Duration:** 3 hrs
+
+**Topics covered:**  
+WINDOW Functions  
+CTEs  
+TEMP TABLES  
+STORED PROCEDURES  
+
+
+**Result:** I learned how to use 
+
+--
+
+# 🎯 Daily Goal — Day NUM
+
+**Date:** Month Day, 2025  
 
 **Duration:** 3 hrs
 
@@ -119,22 +136,9 @@ SUBQUERIES
 
 --
 
-# 🎯 Daily Goal — Day 6
+# 🎯 Daily Goal — Day NUM
 
-**Date:** Oct 31, 2025  
-
-**Duration:** 3 hrs
-
-**Topics covered:**
-
-
-**Result:** I learned how to use 
-
---
-
-# 🎯 Daily Goal — Day 6
-
-**Date:** Oct 31, 2025  
+**Date:** Month Day, 2025  
 
 **Duration:** 3 hrs
 
@@ -145,22 +149,9 @@ SUBQUERIES
 
 --
 
-# 🎯 Daily Goal — Day 6
+# 🎯 Daily Goal — Day NUM
 
-**Date:** Oct 31, 2025  
-
-**Duration:** 3 hrs
-
-**Topics covered:**
-
-
-**Result:** I learned how to use 
-
---
-
-# 🎯 Daily Goal — Day 6
-
-**Date:** Oct 31, 2025  
+**Date:** Month Day, 2025  
 
 **Duration:** 3 hrs
 
@@ -171,9 +162,9 @@ SUBQUERIES
 
 --
 
-# 🎯 Daily Goal — Day 6
+# 🎯 Daily Goal — Day NUM
 
-**Date:** Oct 31, 2025  
+**Date:** Month Day, 2025  
 
 **Duration:** 3 hrs
 
@@ -184,9 +175,9 @@ SUBQUERIES
 
 --
 
-# 🎯 Daily Goal — Day 6
+# 🎯 Daily Goal — Day NUM
 
-**Date:** Oct 31, 2025  
+**Date:** Month Day, 2025  
 
 **Duration:** 3 hrs
 
@@ -195,7 +186,57 @@ SUBQUERIES
 
 **Result:** I learned how to use 
 
+--
 
+# 🎯 Daily Goal — Day NUM
+
+**Date:** Month Day, 2025  
+
+**Duration:** 3 hrs
+
+**Topics covered:**
+
+
+**Result:** I learned how to use 
+
+--
+
+# 🎯 Daily Goal — Day NUM
+
+**Date:** Month Day, 2025  
+
+**Duration:** 3 hrs
+
+**Topics covered:**
+
+
+**Result:** I learned how to use 
+
+--
+
+# 🎯 Daily Goal — Day NUM
+
+**Date:** Month Day, 2025  
+
+**Duration:** 3 hrs
+
+**Topics covered:**
+
+
+**Result:** I learned how to use 
+
+--
+
+# 🎯 Daily Goal — Day NUM
+
+**Date:** Month Day, 2025  
+
+**Duration:** 3 hrs
+
+**Topics covered:**
+
+
+**Result:** I learned how to use 
 
 
 
