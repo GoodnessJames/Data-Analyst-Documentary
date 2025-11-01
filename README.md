@@ -100,7 +100,7 @@ By the end, I should (hopefully) be employable. 😂
 
 ---
 
-## 🧠 Notes for Future Me
+## Notes for Future Me
 
 * Don’t delete this repo when you cringe at old entries — that’s growth.
 * Maybe turn this into a **YouTube series** someday.
