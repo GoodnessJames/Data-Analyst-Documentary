@@ -10,44 +10,45 @@ Schedule: **Mon–Fri only** (1–1.5 hrs/day, ~22 hrs total)
 
 **🎯 Goal:** Learn SQL syntax, logic, and data manipulation basics.
 
-**Fri, Oct 24**
+**Fri, Oct 24 (Day 1)**
 
 * How to Become a Data Analyst – 13:59 ✅
-* Installing MySQL & Creating Database – 12:04 ✅  
+* Installing MySQL & Creating Database – 12:04 ✅
   ⏱ ~26 min
 
-**Mon, Oct 27**
+**Mon, Oct 27 (Day 2)**
 
 * SELECT Statements in MySQL – 11:00 ✅
 * WHERE Clause in MySQL – 12:27 ✅
-* GROUP BY & ORDER BY – 10:46 ✅   
+* GROUP BY & ORDER BY – 10:46 ✅
   ⏱ ~35 min
 
-**Tue, Oct 28**
- 
-* GROUP BY & ORDER BY – 10:46 ✅ 
-* HAVING vs WHERE – 3:46 ✅    
+**Tue, Oct 28 (Day 3)**
+
+* GROUP BY & ORDER BY – 10:46 ✅
+* HAVING vs WHERE – 3:46 ✅
   ⏱ ~19 min
 
-**Wed, Oct 29**
+**Wed, Oct 29 (Day 4)**
+
 * LIMITS + ALIASING – 3:57 ✅
-* JOINS in MySQL – 17:11 ✅  
-* UNIONS in MySQL – 7:22 ✅  
+* JOINS in MySQL – 17:11 ✅
+* UNIONS in MySQL – 7:22 ✅
   ⏱ ~25 min
 
-**Thu, Oct 30**
+**Thu, Oct 30 (Day 5)**
 
 * STRING Functions – 11:54 ✅
 * CASE Statements – 8:53 ✅
 * SUBQUERIES – 11:01 ✅
   ⏱ ~32 min
 
-**Fri, Oct 31**
+**Fri, Oct 31 (Day 6)**
 
 * WINDOW Functions – 13:29
 * CTEs – 10:31
 * TEMP TABLES – 7:46
-* STORED PROCEDURES – 12:37  
+* STORED PROCEDURES – 12:37
   ⏱ ~45 min
   🧩 *Checkpoint:* You now know full SQL syntax flow.
 
@@ -57,35 +58,35 @@ Schedule: **Mon–Fri only** (1–1.5 hrs/day, ~22 hrs total)
 
 **🎯 Goal:** Wrap SQL, master Excel, start Tableau visuals.
 
-**Mon, Nov 3**
+**Mon, Nov 3 (Day 7)**
 
 * TRIGGERS & EVENTS – 14:42
-* Data Cleaning in MySQL (Project) – 51:11  
+* Data Cleaning in MySQL (Project) – 51:11
   ⏱ ~65 min
 
-**Tue, Nov 4**
+**Tue, Nov 4 (Day 8)**
 
 * MySQL Exploratory Data Analysis – 32:44
-* Pivot Tables in Excel – 17:35  
+* Pivot Tables in Excel – 17:35
   ⏱ ~50 min
 
-**Wed, Nov 5**
+**Wed, Nov 5 (Day 9)**
 
 * Excel Formulas – 33:54
-* Excel XLOOKUP – 18:47  
+* Excel XLOOKUP – 18:47
   ⏱ ~53 min
 
-**Thu, Nov 6**
+**Thu, Nov 6 (Day 10)**
 
 * Conditional Formatting – 20:59
 * Charts in Excel – 15:11
-* Cleaning Data in Excel – 21:04  
+* Cleaning Data in Excel – 21:04
   ⏱ ~57 min
 
-**Fri, Nov 7**
+**Fri, Nov 7 (Day 11)**
 
 * Full Project in Excel – 40:50
-* Install Tableau & First Visualization – 17:04  
+* Install Tableau & First Visualization – 17:04
   ⏱ ~58 min
   🧩 *Checkpoint:* You’ve covered SQL + Excel + started Tableau.
 
@@ -95,38 +96,38 @@ Schedule: **Mon–Fri only** (1–1.5 hrs/day, ~22 hrs total)
 
 **🎯 Goal:** Build visual dashboards, start Python logic.
 
-**Mon, Nov 10**
+**Mon, Nov 10 (Day 12)**
 
 * Calculated Fields in Tableau – 6:25
 * Create Visualizations – 14:05
-* Joins in Tableau – 14:29  
+* Joins in Tableau – 14:29
   ⏱ ~35 min
 
-**Tue, Nov 11**
+**Tue, Nov 11 (Day 13)**
 
 * Full Beginner Project in Tableau – 44:18
-* Install Power BI & First Visualization – 12:50  
+* Install Power BI & First Visualization – 12:50
   ⏱ ~57 min
 
-**Wed, Nov 12**
+**Wed, Nov 12 (Day 14)**
 
 * Power Query – 13:07
 * Manage Relationships – 8:36
-* DAX in Power BI – 15:44  
+* DAX in Power BI – 15:44
   ⏱ ~38 min
 
-**Thu, Nov 13**
+**Thu, Nov 13 (Day 15)**
 
 * Drilldown in Power BI – 6:02
 * Conditional Formatting in Power BI – 9:54
 * Beams & Lists in Power BI – 9:31
-* Popular Visualizations – 14:14  
+* Popular Visualizations – 14:14
   ⏱ ~40 min
 
-**Fri, Nov 14**
+**Fri, Nov 14 (Day 16)**
 
 * Full Power BI Guided Project – 42:37
-* Installing Jupyter Notebooks + Anaconda – 10:03  
+* Installing Jupyter Notebooks + Anaconda – 10:03
   ⏱ ~53 min
   🧩 *Checkpoint:* You’ve completed BI tools + environment setup for Python.
 
@@ -136,42 +137,42 @@ Schedule: **Mon–Fri only** (1–1.5 hrs/day, ~22 hrs total)
 
 **🎯 Goal:** Python analysis, automation, cloud tools, and career prep.
 
-**Mon, Nov 17**
+**Mon, Nov 17 (Day 17)**
 
 * Variables – 13:17
 * Data Types – 21:58
 * Operators – 7:15
-* Eval Statements – 6:40  
+* Eval Statements – 6:40
   ⏱ ~49 min
 
-**Tue, Nov 18**
+**Tue, Nov 18 (Day 18)**
 
 * For Loops – 9:17
 * While Loops – 5:40
 * Functions – 12:44
 * Converting Data Types – 6:36
-* BMI Calculator – 14:23  
+* BMI Calculator – 14:23
   ⏱ ~48 min
 
-**Wed, Nov 19**
+**Wed, Nov 19 (Day 19)**
 
 * Automated File Sorter – 16:51
 * Web Scraping Intro – 5:55
 * BeautifulSoup + Requests – 6:58
 * Find & Find All – 12:10
-* Scraping Real Website – 25:23  
+* Scraping Real Website – 25:23
   ⏱ ~67 min
 
-**Thu, Nov 20**
+**Thu, Nov 20 (Day 20)**
 
 * Reading Files – 19:17
 * Filtering Columns & Rows – 11:49
 * Indexes – 11:22
 * Group By & Aggregate – 11:05
-* Merging DataFrames – 22:09  
+* Merging DataFrames – 22:09
   ⏱ ~75 min
 
-**Fri, Nov 21**
+**Fri, Nov 21 (Day 21)**
 
 * Creating Visualizations with Pandas – 16:50
 * Data Cleaning in Pandas – 38:37
@@ -180,13 +181,13 @@ Schedule: **Mon–Fri only** (1–1.5 hrs/day, ~22 hrs total)
 
   * GitHub Pages Portfolio – 35:29
   * Resume Tips – 17:37
-  * LinkedIn Tips – 6:50  
+  * LinkedIn Tips – 6:50
     ⏱ ~2 hr 30 min
     🧩 *Final Checkpoint:* Bootcamp complete 🎓 — celebrate & upload your projects!
 
 ---
 
-### ✅ Optional Review Week — Nov 24 – 28)
+### ✅ Optional Review Week — Nov 24 – Nov 28
 
 * SQL Interview Questions (Easy → Very Hard)
 * Azure & AWS modules
