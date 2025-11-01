@@ -27,23 +27,23 @@ SUBQUERIES
 
 * **SUBSTRING():** Returns a part of a string **based on position**.
   You specify:
-  1️⃣ The column name,
-  2️⃣ The **starting position**, and
-  3️⃣ The **number of characters** to return.
+  1️⃣ The column name,  
+  2️⃣ The **starting position**, and  
+  3️⃣ The **number of characters** to return.  
 
   > Important: The counting **starts at** the position you specify —
   > position 3 means it will include the 3rd character, not skip it.
 
-* **REPLACE():** Substitutes specific text with something new.
+* **REPLACE():** Substitutes specific text with something new.  
   Example: `REPLACE(column, 'old_value', 'new_value')`
 
-* **LOCATE():** Finds the **position of a character or string** within another string.
-  Example:
+* **LOCATE():** Finds the **position of a character or string** within another string.  
+  Example:  
   `LOCATE('d', 'goodness') → 4` (because ‘d’ is the 4th letter).
 
 * **CONCAT():** Joins multiple strings or columns together.
-  Example:
-  `CONCAT(first_name, ' ', last_name)` → merges first and last names.
+  Example:  
+  `CONCAT(first_name, ' ', last_name)` → merges first and last names.  
 
 **What I Learned / What Stood Out:** (Oct 31, 2025)
 
@@ -52,7 +52,7 @@ SUBQUERIES
   > Think of CASE like a **box** — you can’t label the box before it’s fully built.
   > The `END` keyword closes the box, and **only then** can you label (alias) it.
 
-* The **CASE** expression can be used **inside a SELECT** statement.
+* The **CASE** expression can be used **inside a SELECT** statement.  
   Anything that comes before it (like another column) must be followed by a **comma** before writing the CASE.
 
 * The **WHEN** clause in CASE works like **IF statements** in programming — it checks for a condition, and if it’s true, it returns a specific value.
@@ -75,23 +75,23 @@ SUBQUERIES
 - Understanding the syntax of a subquery and the relevance of subqueries.
 
 #### ⚡ Aha! Moment
-- Writing case statements was like IF/ELSE in logic in Python
+- Writing case statements was like IF/ELSE logic in Python
 
 #### 🧰 Tools & Commands I Used
 - ** String commands:** LENGTH(), UPPER(), LOWER(), TRIM(), LTRIM(), RTRIM(), LEFT(), RIGHT(), SUBSTRING(birth_date, 6, 2) AS birth_month,
 REPLACE(first_name, 'Leslie', 'Goodness'), SELECT LOCATE('D', 'Goodness'), LOCATE('An', first_name), CONCAT(first_name, ' ', last_name) AS full_name
 CONCAT(first_name, ' ', UPPER(last_name)) AS full_name
 - **Case statements:**
-  CASE
-    `WHEN conditions`
-    ...
-  END AS case_alias
-- **Subqueries:**
-  SELECT first_name, salary,
-    (SELECT AVG(salary) 
-	  FROM employee_salary
-  ) AS avg_salary
-  FROM employee_salary
+  CASE  
+    `WHEN conditions`  
+    ...  
+  END AS case_alias  
+- **Subqueries:**  
+  SELECT first_name, salary,  
+    (SELECT AVG(salary)   
+	  FROM employee_salary  
+  ) AS avg_salary  
+  FROM employee_salary  
 
 
 #### 🎨 Mini Project / Practice Task
@@ -99,6 +99,7 @@ CONCAT(first_name, ' ', UPPER(last_name)) AS full_name
 
 #### 💭 Reflection
 > 1% progress also counts. Don't get worked up, Goodness. 👀
+
 
 
 
