@@ -82,23 +82,27 @@ SUBQUERIES
 REPLACE(first_name, 'Leslie', 'Goodness'), SELECT LOCATE('D', 'Goodness'), LOCATE('An', first_name), CONCAT(first_name, ' ', last_name) AS full_name
 CONCAT(first_name, ' ', UPPER(last_name)) AS full_name
 - **Case statements:**
+```
   CASE  
-    `WHEN conditions`  
-    ...  
-  END AS case_alias  
-- **Subqueries:**  
+    <WHEN conditions>  
+    <...>  
+  END AS case_alias
+```
+- **Subqueries:**
+```
   SELECT first_name, salary,  
     (SELECT AVG(salary)   
 	  FROM employee_salary  
   ) AS avg_salary  
   FROM employee_salary  
-
+```
 
 #### 🎨 Mini Project / Practice Task
 
 
 #### 💭 Reflection
 > 1% progress also counts. Don't get worked up, Goodness. 👀
+
 
 
 
