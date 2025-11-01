@@ -7,7 +7,7 @@ SUBQUERIES
 
 **Number of Videos Watched:** 3
 
-**Total Learning Time:** 1 hr
+**Total Learning Time:** 3 hr
 
 **Today's Mood:** Cleaning up my carryover lessons on 1st Nov. Yeah, I know. 🙄
 
@@ -99,6 +99,7 @@ CONCAT(first_name, ' ', UPPER(last_name)) AS full_name
 
 #### 💭 Reflection
 > 1% progress also counts. Don't get worked up, Goodness. 👀
+
 
 
 
