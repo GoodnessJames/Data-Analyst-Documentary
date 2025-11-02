@@ -106,9 +106,9 @@ SUBQUERIES
 
 --
 
-# 🎯 Daily Goal — Day 7
+# 🎯 Daily Goal — EXTRA weekend Day 
 
-**Date:** November 01, 2025  
+**Date:** November 02, 2025  
 
 **Duration:** 3 hrs
 
@@ -237,6 +237,7 @@ STORED PROCEDURES
 
 
 **Result:** I learned how to use 
+
 
 
 
