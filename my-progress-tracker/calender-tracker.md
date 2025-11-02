@@ -45,7 +45,7 @@ Schedule: **Mon–Fri only** (1–1.5 hrs/day, ~22 hrs total)
 
 **Fri, Oct 31 (Day 6)**
 
-* WINDOW Functions – 13:29
+* WINDOW Functions – 13:29 ✅
 * CTEs – 10:31
 * TEMP TABLES – 7:46
 * STORED PROCEDURES – 12:37
