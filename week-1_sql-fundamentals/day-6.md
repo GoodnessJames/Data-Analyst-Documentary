@@ -1,6 +1,10 @@
-### 🗓️ Day 6 — Month Day, 2025 
+### 🗓️ Day 6 — Nov 02, 2025 
 
-**Focus:** 
+**Focus:**  
+WINDOW Functions  
+CTEs  
+TEMP TABLES  
+STORED PROCEDURES  
 
 **Number of Videos Watched:** 
 
