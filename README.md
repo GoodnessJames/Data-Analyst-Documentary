@@ -31,6 +31,9 @@ By the end, I should (hopefully) be employable. 😂
 > Check out the repo that contains the SQL files — from tutorials to practice sessions!  
 > 👉 [Go to Data Analyst Bootcamp Repo](https://github.com/GoodnessJames/Data_Analyst_Bootcamp)
 
+## Test your knowledge!
+Yes, I made it easy for you. Simply make a copy of the [quiz doc](https://docs.google.com/document/d/15sgJDNWQqLK888-rnjiJaRf8vZs3G_REZ20iWREUHbg/edit?usp=sharing) to answer quizzes for each video tutorial  you watch. Don't make me stress, you know the importance. So do itttt.
+
 ## 🗂 Folder Structure
 
 ```
