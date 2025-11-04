@@ -1,21 +1,23 @@
 # 🧠 Lesson Quizzes & Summaries  
 *(All quiz answers and detailed notes are in linked Google Docs)*
 
-[Click here to check out all the quizzes](https://docs.google.com/document/d/14QOQarcYIebVwjtKJNzGvdhyxmy23PajySv7BxIci5w/edit?usp=sharing)
+[Click here to check out all the quizzes](https://docs.google.com/document/d/15sgJDNWQqLK888-rnjiJaRf8vZs3G_REZ20iWREUHbg/edit?usp=sharing)
 
 ---
 
 ## 📅 Week 1 — Data & SQL Fundamentals 
 **Day 1 (Oct 24)** — Data Fundamentals & Installing MySQL & Creating Database  
-🎯 [Quiz + Data Fundamentals Review →](https://docs.google.com/document/d/14QOQarcYIebVwjtKJNzGvdhyxmy23PajySv7BxIci5w/edit?tab=t.0)  
-🎯 [Quiz + Installing MySQL & Creating Database Review →](https://docs.google.com/document/d/14QOQarcYIebVwjtKJNzGvdhyxmy23PajySv7BxIci5w/edit?tab=t.3r0j5gm0odnp)  
+🎯 [Quiz + Data Fundamentals Review →](https://docs.google.com/document/d/15sgJDNWQqLK888-rnjiJaRf8vZs3G_REZ20iWREUHbg/edit?tab=t.0)  
+🎯 [Quiz + Installing MySQL & Creating Database Review →](https://docs.google.com/document/d/15sgJDNWQqLK888-rnjiJaRf8vZs3G_REZ20iWREUHbg/edit?tab=t.3r0j5gm0odnp)  
 
 **Day 2 (Oct 27)** — SELECT Statements & WHERE Clauses  
-🎯 [Quiz + SELECT Review →](https://docs.google.com/document/d/14QOQarcYIebVwjtKJNzGvdhyxmy23PajySv7BxIci5w/edit?tab=t.nrj2n39m8o4l)  
-🎯 [Quiz + WHERE Review →](https://docs.google.com/document/d/14QOQarcYIebVwjtKJNzGvdhyxmy23PajySv7BxIci5w/edit?tab=t.nz6dcvuwzr3)  
+🎯 [Quiz + SELECT Review →](https://docs.google.com/document/d/15sgJDNWQqLK888-rnjiJaRf8vZs3G_REZ20iWREUHbg/edit?tab=t.nrj2n39m8o4l)  
+🎯 [Quiz + WHERE Review →](https://docs.google.com/document/d/15sgJDNWQqLK888-rnjiJaRf8vZs3G_REZ20iWREUHbg/edit?tab=t.nz6dcvuwzr3)  
 
 **Day 3 (Oct 28)** — GROUP BY, HAVING, and LIMIT  
-🎯 [Quiz + Review →](https://docs.google.com/)  
+🎯 [Quiz + GROUP BY & ORDER Review →](https://docs.google.com/document/d/15sgJDNWQqLK888-rnjiJaRf8vZs3G_REZ20iWREUHbg/edit?tab=t.67lw2npdulv7)  
+🎯 [Quiz + HAVING vs WHERE Review →](https://docs.google.com/document/d/15sgJDNWQqLK888-rnjiJaRf8vZs3G_REZ20iWREUHbg/edit?tab=t.yhs2dcc7aq5r)  
+🎯 [Quiz + LIMITS & ALIAS Review →](https://docs.google.com/document/d/15sgJDNWQqLK888-rnjiJaRf8vZs3G_REZ20iWREUHbg/edit?tab=t.h0w31fjl4a2c)  
 
 **Day 4 (Oct 29)** — JOINS, UNIONS, CASE Statements  
 🎯 [Quiz + Review →](https://docs.google.com/)  
@@ -73,6 +75,7 @@
 
 **Day 20 (Nov 21)** — Final Review + Certificate  
 🎯 [Quiz + Review →](https://docs.google.com/)
+
 
 
 
